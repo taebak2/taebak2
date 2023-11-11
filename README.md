@@ -1,4 +1,4 @@
-# KIM TAE GYUN ✋
+# KIM TAE GYUN ✋           [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaebak2%2Ftaebak2%2F&count_bg=%2384B7FE&title_bg=%236C6C6C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![taebak2's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taebak2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/taebak2/github-readme-stats#gh-dark-mode-only)
 [![taebak2's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taebak2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taebak2/github-readme-stats#gh-light-mode-only)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktg3902)](https://solved.ac/ktg3902/)

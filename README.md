@@ -16,4 +16,8 @@
 
 # :mailbox_with_mail: Contacts
 
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ktg3902@naver.com)](mailto:ktg3902@naver.com)
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:ktg3902@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>

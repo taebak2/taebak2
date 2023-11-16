@@ -15,7 +15,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 # :mailbox_with_mail: Contacts
-
+ 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:xorbs3902@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 

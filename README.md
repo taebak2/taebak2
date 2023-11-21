@@ -2,7 +2,7 @@
 [![taebak2's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=taebak2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/taebak2/github-readme-stats#gh-dark-mode-only)
 [![taebak2's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=taebak2&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/taebak2/github-readme-stats#gh-light-mode-only)
 
-
+ 
 # 💪 Skills  
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)

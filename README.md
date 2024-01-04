@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=TaeGyun Kim&fontSize=90)
 
-<br/><br/>
+<br/>
  
 # 💪 Skills  
 ### Platforms & Languages
